@@ -1,16 +1,21 @@
-## Hi there 👋
+```
+▀██   ██▀ ▀██████▄  ▀█▌  ██ ▀██▀ ▀██▄  ██▀          █▄ ▀█▄     ▀████▄  ▀█▄     █▄▄██▄ ▄██▄  ▀██▀ ▄█     ▄█      ▄███▄ 
+ ▒▌   ░█    ▒█▌ ▀▒▌  ▒▌  ▒█  ▒█   ▒▌▀█▄ █           ▒█  ▒██▄    ▒█▀░█▌  ▒██▄   ██▀ ███▀ ██▌  ▒█  ▒█     ▒█     ██▀███▌
+ ▒▌   ░     ▒█▌  ░▌  ▒▌  ▒█  ▒█   ▒▌  █             ▒█  ▒▌ ▀█   ▒▌ ▐░█  ▒▌ ▀█  ▒▌  ▐▒█  ▐▒█  ▒█  ▒█     ▒█     ▒▌▐▌▐▒█
+ ▒█▄▄█▀     ▒█▀▀     ▒▌  ▒█  ▒█   ▒▌  ▐ █           ▒█  ▒▌  █▌  ▒▌ ▐▒█  ▒▌  █▌ ▒▌  ▐▒█  ▐▒█  ▒█  ▒█     ▒█     ▒▌ ▀▐▒█
+ ░▌  ▀▒▄    ▒█       ░▌  ░█  ░█   ░▌   ▒█           ▒█  ░▌ ▄██  ░▌▄█▀   ░▌ ▄██ ▒▌  ▐▒█  ▐▒█  ░█  ▒█     ▒█     ▒▌  ▐▒█
+ ░▌   ░█    ░█   ▒   ░▌  ░█  ░█   ░▌   ░█       ▒   ░█  ░▌▀▀██  ░▌ ▀░▌  ░▌▀▀██ ░▌  ▐░█  ▐░█  ░█  ░█   ▒ ░█   ▒ ░▌  ▐░█
+ ░▌   ░█    ░█  ▐░  ▐░█ ▐░█  ░█   ░▌   ░█       ░▌  ░█  ░▌  ▒█  ░▌ ▐▒█  ░▌  ▒█ ░▌  ▐░█  ▐░█  ░█  ░█  ▐░ ░█  ▐░ ░▌  ▐░█
+ ░▄   ░█   ▄███▀      ▀▄█▀   ██   ░▄   ░█         ▀██▀  ░▌  ░█ ▄░▌  ██  ░▌  ░█ █▌  ▐██  ▐██  ██  ▀██▀   ▀██▀   ▀█▄▄██▀
+▀▀▀   ▀▀▀   ▀               ▀▀▀▀ ▀▀▀   ▀▀▀             ▀▀▀  ▀▀  ▀▌  █▀ ▀▀▀  ▀▀              ▀▀▀▀                 ▀▀▀  
+```
+I'm a Computer Science student interested in low-latency, real-time, and high-performance systems.
 
-<!--
-**kevinjaramillo/kevinjaramillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently learning
+- **Data structures & algorithms** in Java
+- **C++**, including memory management and move semantics
+- **Computer organization**, with ARM assembly
+- **Market structure**, from books on trading and high-frequency trading
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Working toward
+- A market-data feed handler in Java and an order book matching engine in C++, with latency measured end to end
