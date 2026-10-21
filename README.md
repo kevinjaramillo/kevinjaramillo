@@ -9,7 +9,7 @@
  ░▄   ░█   ▄███▀      ▀▄█▀   ██   ░▄   ░█       ▀██▀  ░▌  ░█ ▄░▌  ██  ░▌  ░█ █▌  ▐██  ▐██  ██  ▀██▀   ▀██▀   ▀█▄▄██▀
 ▀▀▀   ▀▀▀   ▀               ▀▀▀▀ ▀▀▀   ▀▀▀           ▀▀▀  ▀▀  ▀▌  █▀ ▀▀▀  ▀▀              ▀▀▀▀                 ▀▀▀  
 ```
-I'm a Computer Science student interested in low-latency, real-time, and high-performance systems.
+I'm a Computer Science student interested in low-latency and high-performance systems.
 
 ### Currently learning
 - **Data structures & algorithms** in Java
